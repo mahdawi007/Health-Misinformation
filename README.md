@@ -15,7 +15,6 @@ A Graphical Processing Unit (GPU)
 Acknowledgements
 These code is inspired by the following resources:
 
-https://github.com/Spain-AI/transformers (by Álvaro Barbero)
 https://github.com/lcampillos/Medical-NER
 
 Check also the Flair tutorials at:
