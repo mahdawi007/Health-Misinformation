@@ -2,7 +2,7 @@
 Heart Disease Misinformation Checker
 
 
-Notebooks for medical TEXT Classification with BERT and Flair, used in the article "Heart Disease Misinformation Checker".
+Notebooks for medical TEXT Classification with Flair, used in the article "Heart Disease Misinformation Checker".
 
 Workspace requirements
 Python 3.7+
