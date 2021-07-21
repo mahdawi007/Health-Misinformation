@@ -12,7 +12,9 @@ Matplotlib (tested with version 3.2)
 Numpy (tested with version 1.17.4)
 Pandas (tested with version 0.20)
 A Graphical Processing Unit (GPU)
+
 Acknowledgements
+
 These code is inspired by the following resources:
 
 https://github.com/lcampillos/Medical-NER
