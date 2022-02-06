@@ -1,8 +1,9 @@
-# Health-Misinformation
-Heart Disease Misinformation Checker
+# Health-Misinformation HDMD
+Heart Disease Misinformation Detector
+The system prototype can be accessed by:
+https://t2fvrs5jeoandxeg.anvil.app/YKFEYOCA7G7JHWPL333K6L4V
 
-
-Notebooks for medical TEXT Classification with Flair, used in the article "Heart Disease Misinformation Checker".
+Notebooks for medical TEXT Classification with Flair, used in the article "Heart Disease Misinformation Detector".
 
 Workspace requirements
 Python 3.7+
