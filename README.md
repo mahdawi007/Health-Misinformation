@@ -23,3 +23,6 @@ https://github.com/lcampillos/Medical-NER
 Check also the Flair tutorials at:
 
 https://github.com/flairNLP/flair
+
+Ted-ed original paragrapgh used for testing from:
+https://ed.ted.com/lessons/what-happens-during-a-heart-attack-krishna-sudhir
