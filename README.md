@@ -25,4 +25,5 @@ Check also the Flair tutorials at:
 https://github.com/flairNLP/flair
 
 Ted-ed original paragrapgh used for testing from:
-https://ed.ted.com/lessons/what-happens-during-a-heart-attack-krishna-sudhir
+
+https://www.ted.com/talks/krishna_sudhir_what_happens_during_a_heart_attack/transcript?language=en#t-279863
