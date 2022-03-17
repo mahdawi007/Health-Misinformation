@@ -1,4 +1,4 @@
-# Health-Misinformation HDMD
+# Heart Disease Misinformation Detection - HDMD
 Heart Disease Misinformation Detector
 The system prototype can be accessed by:
 https://t2fvrs5jeoandxeg.anvil.app/YKFEYOCA7G7JHWPL333K6L4V
