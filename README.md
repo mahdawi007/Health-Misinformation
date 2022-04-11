@@ -1,9 +1,9 @@
-# Heart Disease Misinformation Detection - HDMD
-Heart Disease Misinformation Detector
+# Heart Disease Misinformation Annotation - HDMA
+Heart Disease Misinformation Annotator
 The system prototype can be accessed by:
 https://t2fvrs5jeoandxeg.anvil.app/YKFEYOCA7G7JHWPL333K6L4V
 
-Notebooks for medical TEXT Classification with Flair, used in the article "Heart Disease Misinformation Detector".
+Notebooks for medical TEXT Classification with Flair, used in the article "Heart Disease Misinformation Annotator".
 
 Workspace requirements
 Python 3.7+
