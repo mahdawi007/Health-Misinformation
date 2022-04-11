@@ -1,0 +1,21 @@
+gender (part of abstract)
+Cardiovascular disease (CVD) is one of the leading causes of death worldwide. Women usually have a lower incidence of CVD  than  men, but women have a higher mortality rate after acute cardiovascular events and a poorer prognosis. These gender differences are present in several cardiovascular diseases, including coronary artery disease, stroke, heart failure, and aortic disease. These gender differences raise widespread concerns, and addressing gender differences is crucial in the prevention, diagnosis, treatment, and management of cardiovascular disease.
+
+gender tampered
+Cardiovascular disease is not one of the leading causes of death worldwide.Women usually have a higher incidence of CVD  than  men,but men have a higher mortality rate after acute cardiovascular events and a poorer prognosis.These gender differences are not present in several cardiovascular diseases,including coronary artery disease, stroke, heart failure, and aortic disease.These gender differences raise widespread concerns, and addressing gender differences is trivial in the prevention, diagnosis, treatment, and management of cardiovascular disease.
+
+
+source:
+@article{GAO2019100025,
+title = {Gender differences in cardiovascular disease},
+journal = {Medicine in Novel Technology and Devices},
+volume = {4},
+pages = {100025},
+year = {2019},
+issn = {2590-0935},
+doi = {https://doi.org/10.1016/j.medntd.2019.100025},
+url = {https://www.sciencedirect.com/science/article/pii/S2590093519300256},
+author = {Zujie Gao and Zengsheng Chen and Anqiang Sun and Xiaoyan Deng},
+keywords = {Gender differences, Cardiovascular disease, Coronary heart disease, Stroke},
+abstract = {Cardiovascular disease (CVD) is one of the leading causes of death worldwide. Although the incidence of CVD in women is usually lower than in men, women have a higher mortality and worse prognosis after acute cardiovascular events. These gender differences exist in various CVDs, including coronary heart disease, stroke, heart failure and aortic diseases. These gender differences have caused widespread concerns and the consideration of gender differences is of great importance for the prevention, diagnosis, treatment and management of CVD. This review aims to provide an overview of gender-related differences in several typical CVDs and to list and to analyze the possible causes associated with the differences, in order to highlight the necessity of taking into account gender differences in determination of the cardiovascular risk profile. Future research can focus on how to define and add gender-related indicators to current risk assessment and management strategies.}
+}
